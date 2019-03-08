@@ -82,13 +82,13 @@
                 android:title="@string/firmware_version"
                 android:summary="@string/summary_placeholder"/>
 
-        <!-- LineageOS version -->
+        <!-- LineageOS version
         <org.lineageos.internal.preference.deviceinfo.LineageVersionPreference
-                android:key="lineage_version" />
+                android:key="lineage_version" /> -->
 
-        <!-- LineageOS API version -->
+        <!-- LineageOS API version
         <org.lineageos.internal.preference.deviceinfo.LineageAPIVersionPreference
-                android:key="lineage_api_level" />
+                android:key="lineage_api_level" /> -->
 
         <!-- Security patch level -->
         <Preference android:key="security_patch"
